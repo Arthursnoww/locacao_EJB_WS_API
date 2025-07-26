@@ -1,0 +1,11 @@
+{
+  "name": "locadora-cli",
+  "version": "1.0.0",
+  "description": "Cliente CLI para a API de locadora de aparelhos",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "readline-sync": "^1.4.10"
+  }
+}
